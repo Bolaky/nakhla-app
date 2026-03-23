@@ -11,14 +11,16 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "https://bolaky.github.io/nakhla-app/icon.png",
+      "src": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Palm%20tree/3D/palm_tree_3d.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "https://bolaky.github.io/nakhla-app/icon.png",
+      "src": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Palm%20tree/3D/palm_tree_3d.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
